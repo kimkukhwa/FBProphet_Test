@@ -3,8 +3,10 @@ This is a quick starter for time-series analysis with Facebook prophet, based on
 
 # Libraries
 - Pandas
+- sklearn.metrics
 - Fbprophet
 - plotly
+- matplotlib
 
 # Data
 1. The Wikipedia page for Peyton Manning. https://en.wikipedia.org/wiki/Peyton_Manning
