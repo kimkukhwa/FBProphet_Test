@@ -1,5 +1,5 @@
 # FBProphet
-This is a quick starter for time-series analysis with Facebook prophet. 
+This is a quick starter for time-series analysis with Facebook prophet, based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects.
 
 # Libraries
 - Pandas
