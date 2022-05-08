@@ -14,3 +14,7 @@ This is a quick starter for time-series analysis with Facebook prophet, based on
 2. Car Sales Dataset
 - CSV is available here -> https://raw.githubusercontent.com/jbrownlee/Datasets/master/monthly-car-sales.csv
 
+# References that helped me up and running
+https://facebook.github.io/prophet/
+https://databricks.com/blog/2020/01/27/time-series-forecasting-prophet-spark.html
+https://machinelearningmastery.com/time-series-forecasting-with-prophet-in-python/
